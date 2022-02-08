@@ -5,12 +5,14 @@
       <map>
         <entry key="app/src/main/res/drawable/custom_button.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/custom_edittext.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_create_card.xml" value="0.11408274132887589" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_spash_screen.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_update_card.xml" value="0.12035102381947346" />
         <entry key="app/src/main/res/layout/create_card.xml" value="0.25" />
         <entry key="app/src/main/res/layout/splash_screen.xml" value="0.12790697674418605" />
         <entry key="app/src/main/res/layout/update_card.xml" value="0.22" />
-        <entry key="app/src/main/res/layout/view.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/view.xml" value="0.2" />
       </map>
     </option>
   </component>

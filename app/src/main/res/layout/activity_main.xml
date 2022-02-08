@@ -33,7 +33,27 @@
             android:textSize="15sp"/>
 
     </LinearLayout>
-    
 
+   <FrameLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+       <androidx.recyclerview.widget.RecyclerView
+           android:id="@+id/recycler_view"
+           tools:listitem="@layout/view"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"/>
+
+       <Button
+           android:id="@+id/add"
+           android:layout_width="214dp"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center|bottom"
+           android:layout_marginBottom="25dp"
+           android:backgroundTint="#BA69C8"
+           android:text="Add Task"
+           android:textColor="@color/black"
+           android:textSize="18sp"/>
+
+   </FrameLayout>
 
 </LinearLayout>
